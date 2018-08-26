@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: NYC Taxi fare prediction
 author: Nicolás Mazza
 layout: post
 ---
